@@ -65,6 +65,6 @@ function Results(students) {
 }
 
 
-console.log("hello repositry")
+console.log("hello rep")
 
 Results(students);
